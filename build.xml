@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<project name="CSE1325" default="build">
+<project name="Library-Management-System" default="build">
 
 
 	<target name="build" description="Compile source tree java files">
