@@ -45,6 +45,6 @@ This is a Java-based Library Management System that allows users to manage a col
 - Use the **Save** option to write the changes back to the `.txt` file. The file will reflect all changes made during the session.
 
 ### Example Usage
-./Example.png
+![Screenshot of the Menu](./Example.png)
 
 
