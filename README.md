@@ -1,6 +1,6 @@
 # Library Management System
 
-This is a Java-based Library Management System that allows users to manage a collection of publications and patrons, and handle checkouts and returns. The system provides a menu-driven interface for users to interact with the library data.
+This is a Java-based Library Management System that allows users to manage a collection of publications and patrons, and handle checkouts and returns. The system follows Object-Oriented Programming (OOP) principles and provides a menu-driven interface for users to interact with the library data.
 
 ## Features
 
